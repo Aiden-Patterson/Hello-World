@@ -1,0 +1,30 @@
+C:\Users\Aiden\Desktop\Applied Programming CSE310\bin\Debug\net6.0\Applied Programming CSE310.exe
+C:\Users\Aiden\Desktop\Applied Programming CSE310\bin\Debug\net6.0\Applied Programming CSE310.deps.json
+C:\Users\Aiden\Desktop\Applied Programming CSE310\bin\Debug\net6.0\Applied Programming CSE310.runtimeconfig.json
+C:\Users\Aiden\Desktop\Applied Programming CSE310\bin\Debug\net6.0\Applied Programming CSE310.dll
+C:\Users\Aiden\Desktop\Applied Programming CSE310\bin\Debug\net6.0\Applied Programming CSE310.pdb
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\Applied Programming CSE310.csproj.AssemblyReference.cache
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\Applied Programming CSE310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\Applied Programming CSE310.AssemblyInfoInputs.cache
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\Applied Programming CSE310.AssemblyInfo.cs
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\Applied Programming CSE310.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\Applied Programming CSE310.dll
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\refint\Applied Programming CSE310.dll
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\Applied Programming CSE310.pdb
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\Applied Programming CSE310.genruntimeconfig.cache
+C:\Users\Aiden\Desktop\Applied Programming CSE310\obj\Debug\net6.0\ref\Applied Programming CSE310.dll
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\bin\Debug\net6.0\Applied Programming CSE310.exe
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\bin\Debug\net6.0\Applied Programming CSE310.deps.json
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\bin\Debug\net6.0\Applied Programming CSE310.runtimeconfig.json
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\bin\Debug\net6.0\Applied Programming CSE310.dll
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\bin\Debug\net6.0\Applied Programming CSE310.pdb
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\Applied Programming CSE310.csproj.AssemblyReference.cache
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\Applied Programming CSE310.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\Applied Programming CSE310.AssemblyInfoInputs.cache
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\Applied Programming CSE310.AssemblyInfo.cs
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\Applied Programming CSE310.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\Applied Programming CSE310.dll
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\refint\Applied Programming CSE310.dll
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\Applied Programming CSE310.pdb
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\Applied Programming CSE310.genruntimeconfig.cache
+C:\Users\Aiden\Desktop\Applied Programming CSE310\Hello World\obj\Debug\net6.0\ref\Applied Programming CSE310.dll
