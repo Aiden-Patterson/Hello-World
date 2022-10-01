@@ -12,7 +12,7 @@ This is a classic Hello world. I am using it do test how git and github work so 
 * Visual Studio Code
 * Git / GitHub
 
-I used C# because I am currently learning it and wanted some extra experience in writing the calsses neccessary to run a C# program
+I used C# because I am currently learning it and wanted some extra experience in writing the classes neccessary to run a C# program
 
 # Useful Websites
 
