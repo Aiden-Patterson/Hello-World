@@ -4,7 +4,7 @@ This is a classic Hello world. I am using it do test how git and github work so 
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/4QwH8h8LSYw))
 
 # Development Environment
 
